@@ -12,26 +12,14 @@ googleAnalytics = ""
 paginate = "9"
 buildFuture = true
 
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
+
 
 
 [permalinks]
 	page = "/:filename/"
-	  about = "/:filename/"
-	  episode = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
 
-#[[Menu.Main]]
-#    name = "About"
-#    identifier = "about"
-#    url = "/about"
-
-#[[Menu.Main]]
-#    name = "Contact"
-#    identifier = "contact"
-#    url = "/contact"
 
 [[Menu.Main]]
     name = "Podcast"
@@ -67,8 +55,6 @@ spotify_subscribe = "https://open.spotify.com/show/3rgCuBZ0bcSnxjartXjT3T?si=Qp6
 # rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Geflügelte Worte und Redewendungen vorgestellt und kurz erklärt"
 media_prefix = "https://ia601504.us.archive.org/17/items/redhuhn/"
-#media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
-#media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
 disqusShortname = ""
 
   [params.feed]
@@ -90,9 +76,9 @@ disqusShortname = ""
     theme_color="#ffffff"
 
   [params.podlove] # https://subscribe-button.podlove.org
-    subscribe_title = ""              # fallback: site title from above
-    subscribe_subtitle = ""           # fallback: ""
-    subscribe_description = ""        # fallback: ""
+    subscribe_title = "Redhuhn"              # fallback: site title from above
+    subscribe_subtitle = "Geflügelte Worte und Redewendungen vorgestellt und kurz erklärt"           # fallback: ""
+    subscribe_description = "Geflügelte Worte und Redewendungen vorgestellt und kurz erklärt"        # fallback: ""
     subscribe_cover = "https://archive.org/download/redhuhn/redhuhn.png"  # fallback: ""
     subscribe_color = "#585e6c"       # fallback: ""
     subscribe_size = "medium"         # options: small, medium, big
