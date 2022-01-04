@@ -1,0 +1,282 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
+  <channel>
+    <title>Redhuhn</title>
+    <atom:link href="https://derphilipp.github.io/podcast_redhuhn/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://derphilipp.github.io/podcast_redhuhn/</link>
+    <description>Geflügelte Worte und Redewendungen vorgestellt und kurz erklärt</description>
+    <lastBuildDate>Wed, 25 Sep 2019 02:11:48 -0500</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>de-de</language>
+    <copyright>Copyright 2021 Philipp Weißmann</copyright>
+    <itunes:subtitle>Geflügelte Worte und Redewendungen</itunes:subtitle>
+    <itunes:author>Philipp Weißmann</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Philipp Weißmann</googleplay:author>
+    <googleplay:email>mail@philipp-weissmann.de</googleplay:email>
+    <itunes:summary>Geflügelte Worte und Redewendungen vorgestellt und kurz erklärt</itunes:summary>
+    <googleplay:description>Geflügelte Worte und Redewendungen vorgestellt und kurz erklärt</googleplay:description>
+    <itunes:owner>
+      <itunes:name>Philipp Weißmann</itunes:name>
+      <itunes:email>mail@philipp-weissmann.de</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://archive.org/download/redhuhn/redhuhn.png" />
+    <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image>
+    <image>
+      <url>https://archive.org/download/redhuhn/redhuhn.png</url>
+      <title>Redhuhn</title>
+      <link>https://derphilipp.github.io/podcast_redhuhn/</link>
+    </image>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning" /></itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>Brandbriefe Von Allen Seiten Erhalten</title>
+          
+          <link>https://derphilipp.github.io/podcast_redhuhn/e10/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://ia601504.us.archive.org/17/items/redhuhn/10_Brandbriefe_von_allen_Seiten_erhalten.mp3</guid>
+          <itunes:author>Philipp Weißmann</itunes:author>
+          
+          <itunes:episode>10</itunes:episode>
+          
+        <itunes:title>Brandbriefe Von Allen Seiten Erhalten</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Brandbriefe von allen Seiten erhalten
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Brandbriefe von allen Seiten erhalten</itunes:summary>
+        <description>Brandbriefe von allen Seiten erhalten</description>
+        <googleplay:description>Brandbriefe von allen Seiten erhalten</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://archive.org/download/redhuhn/redhuhn.png"></itunes:image>
+          <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image><enclosure url="https://ia601504.us.archive.org/17/items/redhuhn/10_Brandbriefe_von_allen_Seiten_erhalten.mp3"  type="audio/mpeg" /><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>Bratkartoffelverhältnis Und Wilde Ehe</title>
+          
+          <link>https://derphilipp.github.io/podcast_redhuhn/e05/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://ia601504.us.archive.org/17/items/redhuhn/05_bratkartoffelverhaeltnis_und_wilde_ehe.mp3</guid>
+          <itunes:author>Philipp Weißmann</itunes:author>
+          
+          <itunes:episode>05</itunes:episode>
+          
+        <itunes:title>Bratkartoffelverhältnis Und Wilde Ehe</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Bratkartoffelverhältnis und Wilde Ehe
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Bratkartoffelverhältnis und Wilde Ehe</itunes:summary>
+        <description>Bratkartoffelverhältnis und Wilde Ehe</description>
+        <googleplay:description>Bratkartoffelverhältnis und Wilde Ehe</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://archive.org/download/redhuhn/redhuhn.png"></itunes:image>
+          <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image><enclosure url="https://ia601504.us.archive.org/17/items/redhuhn/05_bratkartoffelverhaeltnis_und_wilde_ehe.mp3"  type="audio/mpeg" /><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>Die Axt Im Haus Erspart Den Zimmermann</title>
+          
+          <link>https://derphilipp.github.io/podcast_redhuhn/e02/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://ia601504.us.archive.org/17/items/redhuhn/02_die_axt_im_haus_erspart_den_zimmermann.mp3</guid>
+          <itunes:author>Philipp Weißmann</itunes:author>
+          
+          <itunes:episode>02</itunes:episode>
+          
+        <itunes:title>Die Axt Im Haus Erspart Den Zimmermann</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Die Axt im Haus erspart den Zimmermann
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Die Axt im Haus erspart den Zimmermann</itunes:summary>
+        <description>Die Axt im Haus erspart den Zimmermann</description>
+        <googleplay:description>Die Axt im Haus erspart den Zimmermann</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://archive.org/download/redhuhn/redhuhn.png"></itunes:image>
+          <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image><enclosure url="https://ia601504.us.archive.org/17/items/redhuhn/02_die_axt_im_haus_erspart_den_zimmermann.mp3"  type="audio/mpeg" /><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>Dumm Wie Bohnenstroh</title>
+          
+          <link>https://derphilipp.github.io/podcast_redhuhn/e04/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://ia601504.us.archive.org/17/items/redhuhn/04_dumm_wie_bohnenstroh.mp3</guid>
+          <itunes:author>Philipp Weißmann</itunes:author>
+          
+          <itunes:episode>04</itunes:episode>
+          
+        <itunes:title>Dumm Wie Bohnenstroh</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Dumm wie Bohnenstroh
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Dumm wie Bohnenstroh</itunes:summary>
+        <description>Dumm wie Bohnenstroh</description>
+        <googleplay:description>Dumm wie Bohnenstroh</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://archive.org/download/redhuhn/redhuhn.png"></itunes:image>
+          <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image><enclosure url="https://ia601504.us.archive.org/17/items/redhuhn/04_dumm_wie_bohnenstroh.mp3"  type="audio/mpeg" /><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>Es War Einmal…</title>
+          
+          <link>https://derphilipp.github.io/podcast_redhuhn/e01/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://ia601504.us.archive.org/17/items/redhuhn/01_es_war_einmal.mp3</guid>
+          <itunes:author>Philipp Weißmann</itunes:author>
+          
+          <itunes:episode>01</itunes:episode>
+          
+        <itunes:title>Es War Einmal…</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Es war einmal…
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Es war einmal…</itunes:summary>
+        <description>Es war einmal…</description>
+        <googleplay:description>Es war einmal…</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://archive.org/download/redhuhn/redhuhn.png"></itunes:image>
+          <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image><enclosure url="https://ia601504.us.archive.org/17/items/redhuhn/01_es_war_einmal.mp3"  type="audio/mpeg" /><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>Flasche</title>
+          
+          <link>https://derphilipp.github.io/podcast_redhuhn/e07/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://ia601504.us.archive.org/17/items/redhuhn/07_flasche.mp3</guid>
+          <itunes:author>Philipp Weißmann</itunes:author>
+          
+          <itunes:episode>07</itunes:episode>
+          
+        <itunes:title>Flasche</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Flasche
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Flasche</itunes:summary>
+        <description>Flasche</description>
+        <googleplay:description>Flasche</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://archive.org/download/redhuhn/redhuhn.png"></itunes:image>
+          <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image><enclosure url="https://ia601504.us.archive.org/17/items/redhuhn/07_flasche.mp3"  type="audio/mpeg" /><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>Hals- Und Beinbruch</title>
+          
+          <link>https://derphilipp.github.io/podcast_redhuhn/e08/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://ia601504.us.archive.org/17/items/redhuhn/08_hals_und_beinbruch.mp3</guid>
+          <itunes:author>Philipp Weißmann</itunes:author>
+          
+          <itunes:episode>08</itunes:episode>
+          
+        <itunes:title>Hals- Und Beinbruch</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Hals- und Beinbruch
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Hals- und Beinbruch</itunes:summary>
+        <description>Hals- und Beinbruch</description>
+        <googleplay:description>Hals- und Beinbruch</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://archive.org/download/redhuhn/redhuhn.png"></itunes:image>
+          <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image><enclosure url="https://ia601504.us.archive.org/17/items/redhuhn/08_hals_und_beinbruch.mp3"  type="audio/mpeg" /><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>Hätt‘ Ich Venedigs Macht Und Augsburger Pracht, Nürnberger Witz Und Straßburger G’schütz Und Ulmer Geld, So Wär Ich Der Reichste in Der Welt.</title>
+          
+          <link>https://derphilipp.github.io/podcast_redhuhn/e09/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://ia601504.us.archive.org/17/items/redhuhn/09_haett_ich_venedigs_macht.mp3</guid>
+          <itunes:author>Philipp Weißmann</itunes:author>
+          
+          <itunes:episode>09</itunes:episode>
+          
+        <itunes:title>Hätt‘ Ich Venedigs Macht Und Augsburger Pracht, Nürnberger Witz Und Straßburger G’schütz Und Ulmer Geld, So Wär Ich Der Reichste in Der Welt.</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Hätt‘ ich Venedigs Macht und Augsburger Pracht, Nürnberger Witz und Straßburger G’schütz und Ulmer Geld, so wär ich der Reichste in der Welt.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Hätt‘ ich Venedigs Macht und Augsburger Pracht, Nürnberger Witz und Straßburger G’schütz und Ulmer Geld, so wär ich der Reichste in der Welt.</itunes:summary>
+        <description>Hätt‘ ich Venedigs Macht und Augsburger Pracht, Nürnberger Witz und Straßburger G’schütz und Ulmer Geld, so wär ich der Reichste in der Welt.</description>
+        <googleplay:description>Hätt‘ ich Venedigs Macht und Augsburger Pracht, Nürnberger Witz und Straßburger G’schütz und Ulmer Geld, so wär ich der Reichste in der Welt.</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://archive.org/download/redhuhn/redhuhn.png"></itunes:image>
+          <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image><enclosure url="https://ia601504.us.archive.org/17/items/redhuhn/09_haett_ich_venedigs_macht.mp3"  type="audio/mpeg" /><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>Katzentisch</title>
+          
+          <link>https://derphilipp.github.io/podcast_redhuhn/e06/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://ia601504.us.archive.org/17/items/redhuhn/06_katzentisch.mp3</guid>
+          <itunes:author>Philipp Weißmann</itunes:author>
+          
+          <itunes:episode>06</itunes:episode>
+          
+        <itunes:title>Katzentisch</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Katzentisch
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Katzentisch</itunes:summary>
+        <description>Katzentisch</description>
+        <googleplay:description>Katzentisch</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://archive.org/download/redhuhn/redhuhn.png"></itunes:image>
+          <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image><enclosure url="https://ia601504.us.archive.org/17/items/redhuhn/06_katzentisch.mp3"  type="audio/mpeg" /><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>Olle Kamellen</title>
+          
+          <link>https://derphilipp.github.io/podcast_redhuhn/e03/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://ia601504.us.archive.org/17/items/redhuhn/03_olle_kamellen.mp3</guid>
+          <itunes:author>Philipp Weißmann</itunes:author>
+          
+          <itunes:episode>03</itunes:episode>
+          
+        <itunes:title>Olle Kamellen</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Olle Kamellen
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Olle Kamellen</itunes:summary>
+        <description>Olle Kamellen</description>
+        <googleplay:description>Olle Kamellen</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://archive.org/download/redhuhn/redhuhn.png"></itunes:image>
+          <googleplay:image href="https://archive.org/download/redhuhn/redhuhn.png"></googleplay:image><enclosure url="https://ia601504.us.archive.org/17/items/redhuhn/03_olle_kamellen.mp3"  type="audio/mpeg" /><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item></channel>
+</rss>
