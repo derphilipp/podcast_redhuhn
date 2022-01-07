@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Redhuhn</title>
+      <title>Redhuhn</title>
+      <fyyd:verify xmlns:fyyd="https://fyyd.de/fyyd-ns/">y2vnpxcz978kmuLvz8fac6x9pcmkq1e3runlr</fyyd:verify>
+
     <link>https://derphilipp.github.io/podcast_redhuhn/</link>
     <description>Recent content on Redhuhn</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -11,91 +13,91 @@
       <title>Brandbriefe von allen Seiten erhalten</title>
       <link>https://derphilipp.github.io/podcast_redhuhn/e10/</link>
       <pubDate>Sun, 15 Mar 2020 08:15:01 +0100</pubDate>
-      
+
       <guid>https://derphilipp.github.io/podcast_redhuhn/e10/</guid>
       <description>am7baSiAlnry3obz5M54n5ylx7iV4x3teurfwcsZ</description>
     </item>
-    
+
     <item>
       <title>Hätt‘ ich Venedigs Macht und Augsburger Pracht, Nürnberger Witz und Straßburger G’schütz und Ulmer Geld, so wär ich der Reichste in der Welt.</title>
       <link>https://derphilipp.github.io/podcast_redhuhn/e09/</link>
       <pubDate>Sun, 15 Mar 2020 08:15:01 +0100</pubDate>
-      
+
       <guid>https://derphilipp.github.io/podcast_redhuhn/e09/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Hals- und Beinbruch</title>
       <link>https://derphilipp.github.io/podcast_redhuhn/e08/</link>
       <pubDate>Sun, 01 Mar 2020 08:15:01 +0100</pubDate>
-      
+
       <guid>https://derphilipp.github.io/podcast_redhuhn/e08/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Flasche</title>
       <link>https://derphilipp.github.io/podcast_redhuhn/e07/</link>
       <pubDate>Sun, 16 Feb 2020 08:15:01 +0100</pubDate>
-      
+
       <guid>https://derphilipp.github.io/podcast_redhuhn/e07/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Katzentisch</title>
       <link>https://derphilipp.github.io/podcast_redhuhn/e06/</link>
       <pubDate>Sun, 02 Feb 2020 08:15:01 +0100</pubDate>
-      
+
       <guid>https://derphilipp.github.io/podcast_redhuhn/e06/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Bratkartoffelverhältnis und Wilde Ehe</title>
       <link>https://derphilipp.github.io/podcast_redhuhn/e05/</link>
       <pubDate>Sun, 12 Jan 2020 08:15:01 +0100</pubDate>
-      
+
       <guid>https://derphilipp.github.io/podcast_redhuhn/e05/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Dumm wie Bohnenstroh</title>
       <link>https://derphilipp.github.io/podcast_redhuhn/e04/</link>
       <pubDate>Wed, 01 Jan 2020 08:15:01 +0100</pubDate>
-      
+
       <guid>https://derphilipp.github.io/podcast_redhuhn/e04/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Olle Kamellen</title>
       <link>https://derphilipp.github.io/podcast_redhuhn/e03/</link>
       <pubDate>Sun, 28 Jul 2019 08:15:01 +0100</pubDate>
-      
+
       <guid>https://derphilipp.github.io/podcast_redhuhn/e03/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Die Axt im Haus erspart den Zimmermann</title>
       <link>https://derphilipp.github.io/podcast_redhuhn/e02/</link>
       <pubDate>Tue, 09 Jul 2019 08:15:01 +0100</pubDate>
-      
+
       <guid>https://derphilipp.github.io/podcast_redhuhn/e02/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Es war einmal…</title>
       <link>https://derphilipp.github.io/podcast_redhuhn/e01/</link>
       <pubDate>Sun, 30 Jun 2019 08:15:01 +0100</pubDate>
-      
+
       <guid>https://derphilipp.github.io/podcast_redhuhn/e01/</guid>
       <description></description>
     </item>
-    
+
   </channel>
 </rss>
